@@ -10,7 +10,7 @@ class SampleTest {
     }
 
     @Test
-    fun testSquareFails() {
-        assertEquals(65, testSample.square(8));
+    fun testSquareTwo() {
+        assertEquals(49, testSample.square(7));
     }
 }
